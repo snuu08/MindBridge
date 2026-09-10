@@ -1,0 +1,18 @@
+:root {
+  --ivory: #f4efe6;
+  --ivory-deep: #ebe4d6;
+  --paper: #fffdf8;
+  --ink: #1c1917;
+  --ink-muted: #5c564e;
+  --line: #d4cdc0;
+  --purple: #6d5b8c;
+  --purple-soft: #f1ecf7;
+  --purple-line: #9b8bb4;
+  --danger: #8c3d3d;
+  --shadow: 0 8px 24px rgba(28, 25, 23, 0.06);
+  --ease-out: cubic-bezier(0.23, 1, 0.32, 1);
+  --ease-in-out: cubic-bezier(0.77, 0, 0.175, 1);
+  --ease-drawer: cubic-bezier(0.32, 0.72, 0, 1);
+  --font: 'Pretendard', 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif;
+  --radius: 10px;
+}

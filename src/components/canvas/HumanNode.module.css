@@ -1,0 +1,37 @@
+.node {
+  min-width: 188px;
+  max-width: 260px;
+  padding: 10px 12px 12px;
+  background: #faf6ee;
+  border: 1.5px solid #2c261f;
+  border-radius: 10px;
+  box-shadow: 0 4px 14px rgba(28, 25, 23, 0.04);
+}
+
+.node[data-selected='true'] {
+  box-shadow: 0 0 0 3px rgba(44, 38, 31, 0.12);
+}
+
+.badge {
+  display: inline-block;
+  margin-bottom: 6px;
+  font-size: 11px;
+  letter-spacing: 0.02em;
+  color: var(--ink-muted);
+}
+
+.label {
+  font-size: 15px;
+  line-height: 1.45;
+  word-break: keep-all;
+}
+
+.input {
+  width: 100%;
+  border: 0;
+  background: transparent;
+  color: inherit;
+  padding: 0;
+  resize: none;
+  outline: none;
+}
